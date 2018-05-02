@@ -237,7 +237,7 @@ section.header nav ul a {
   -o-transition: color 0.1s cubic-bezier(0.47, 0, 0.75, 0.72);
 }
 section.header nav ul a:hover {
-  color: #111;
+  color: rgb(34, 111, 255);
 }
 @media (min-width: 600px) {
   section.header {

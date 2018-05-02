@@ -1,0 +1,37 @@
+{{ partial "header.html" . }}
+<section class="main">
+    <div class="container">
+        <div class="content">
+            {{ if .Content }}
+                <div class="markdown">
+                    {{ .Content }}
+                </div>
+            {{ end }}
+	    <div class="page-heading">FlappyBird Tutorial</div>
+        <div class="page-description" style="color: #929292; margin-top: -20px; margin-bottom: 30px;">Aprenda a criar o seu clone de FlappyBird usando Lua e CoronaSDK.</div>
+            <ul>
+                {{ if eq .Site.Params.bloggroupby "month" }}
+                    {{ $.Scratch.Set "datespec" "Jan, 2006" }}
+                {{ else if eq .Site.Params.bloggroupby "year" }}
+                    {{ $.Scratch.Set "datespec" "2006" }}
+                {{ end }}
+                {{ if not ($.Scratch.Get "datespec") }}
+                    {{ range .Data.Pages.ByTitle }}
+                    {{ partial "li-tutorial.html" . }}
+                    {{ end }}
+                {{ else }}
+                    {{ range .Data.Pages.ByTitle.GroupByDate ($.Scratch.Get "datespec") "asc" }}
+                        <li class="post-item no-bullet">
+                            <span class="date">{{ .Key }}</span>
+                        </li>
+                        {{ range .Pages.ByPublishDate }}
+                            {{ partial "li.html" . }}
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </ul>
+        </div>
+    </div>
+</section>
+{{ partial "footer.html" . }}
+

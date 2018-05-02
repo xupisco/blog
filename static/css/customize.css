@@ -1,0 +1,149 @@
+a:hover {
+    color: red;
+}
+
+
+ul {
+    list-style-type: disc;
+}
+
+ol {
+    list-style-type: decimal;
+}
+
+section.header h3.self-intro {
+    font-size: 13px;
+    color: #888888;
+    margin-top: -5px;
+}
+
+@media (min-width: 600px) {
+    section.header nav {
+        margin-top: -8px;
+        background-color: #f7f7f7;
+        padding: 0 6px;
+    }
+}
+
+section.main .container .content .post-item .meta {
+    text-align: left;
+    display: block;
+    font-size: 14px;
+}
+
+section.main .container .content .post-item {
+    display: block;
+    margin-top: 10px;
+    border-bottom: 1px dashed #dedede;
+    padding-bottom: 10px;
+}
+
+section.main .content .markdown ul, section.main .content .markdown ol {
+    margin-left: 30px;
+    margin-bottom: 1.25rem;
+}
+
+section.main .content .markdown ul ul, section.main .content .markdown ol ol {
+    margin-left: 30px;
+    margin-top: 0;
+    margin-bottom: .5rem;
+}
+
+section.main .content .markdown li {
+    list-style-position: inherit;
+    list-style-type: inherit;
+}
+
+section.main .content .page-heading {
+    font-size: 22px;
+}
+
+.tags a {
+    color: #9a9a9a;
+    font-size: 11px;
+}
+
+.tags a:hover {
+    color: #428bca;
+}
+
+section.main .container .content .post-item:last-child {
+    border: 0;
+}
+
+.markdown div {
+    margin: 2rem 0;
+}
+
+section.main .content .markdown pre {
+    margin-bottom: 1rem;
+    border-radius: 3px;
+}
+
+section.header .avatar {
+    border-radius: 2%;
+    max-width: 103px;
+    margin-bottom: 10px;
+}
+
+section.main .content .markdown img {
+    border-radius: 4px;
+    min-width: 100%;
+}
+
+section.main .content .markdown em {
+    font-style: italic;
+    color: #8e8e8e;
+    font-size: 13px;
+    margin-top: -15px;
+    display: flex;
+}
+
+section.main .content .markdown code { 
+    color: #eaeaea;
+}
+
+section.main .content .markdown code, section.main .content .markdown pre {
+    background-color: #282c34;
+}
+
+section.main .content .markdown code {
+    padding: .15em .3em;
+}
+
+section.main .content .markdown blockquote {
+    background-color: #f5f5f5;
+    padding-right: 1rem;
+    border-radius: 0 4px 4px 0;
+}
+
+section.main .content .markdown blockquote p {
+    font-size: 14px;
+}
+
+section.main .content .markdown hr {
+     border-top: 1px dashed #ccc;
+}
+
+@media (max-width: 1024px) {
+    section.icons {
+        padding-bottom: 20px;
+        margin-top: -40px;
+    }
+
+    section.header nav {
+        padding: 3px 8px;
+        margin-top: 5px;
+        background-color: #fff;
+        margin-bottom: 50px;
+    }
+}
+
+@media (min-width: 1024px) {
+    section.header .avatar {
+        max-width: 70px;
+        margin-bottom: -80px;
+        margin-left: -90px;
+    }
+}
+

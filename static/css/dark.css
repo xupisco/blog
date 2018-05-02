@@ -1,0 +1,40 @@
+body {
+    background-color: #181819;
+}
+
+a {
+    color: #b4d9f9;
+}
+
+a:hover {
+    color: #8fdc8e;
+}
+
+section.header .name {
+    color: #fff;
+    font-size: 12px;
+}
+
+section.header nav ul a {
+    color: #969696;
+}
+
+section.header nav ul a:hover {
+    color: #80b9e2 !important;
+}
+
+section.main .content .page-heading {
+    color: #fff;
+}
+
+section.main .container .content .post-item .meta {
+    color: #9e9e9e;
+}
+
+section.main .content {
+    color: #e4e4e4;
+}
+
+section.main .content .markdown h2 {
+    color: #e4e4e4;
+}

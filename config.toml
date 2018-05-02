@@ -1,0 +1,75 @@
+baseURL = "http://isotopedia.com"
+author = "Leandro Voltolino"
+title = "@isotopedia - Let's build stuff"
+theme = "cocoa"
+disqusshortname = "isotopedia"
+googleAnalytics = 'UA-81093101-1'
+pygmentsuseclasses = false
+
+[permalinks]
+    fixed = ":title/"
+    post  = "post/:slug/"
+
+#[[menu.main]]
+#    name = "Sobre"
+#    weight = -120
+#    identifier = "about"
+#    url = "/about"
+
+[[menu.main]]
+    name = "Blog"
+    weight = -110
+    identifier = "blog"
+    url = "/"
+
+[[menu.main]]
+    name = "FlappyBird Tutorial"
+    weight = -100
+    identifier = "flappybird-tutorial"
+    url = "/flappybird-tutorial/"
+
+[params]
+    latestpostscount = 7
+    i18n_flags = false
+    author = "isotopedia"
+    avatar = "img/zen.png"
+    cachebuster = true
+    dateform = "02/01/2006"
+    dateformfull = "Mon Jan 2 2006 15:04:05 MST"
+    description = "Calma, estou aqui para ajudar!"
+    email = "dev@xupisco.net"
+    highlightjs = true
+    highlightjsStyle = "atom-one-dark"
+    faviconfile = "img/zen.png"
+    extracssfiles = [
+        "/css/customize.css"
+    ]
+    lang = "pt-br"
+    noshowreadtime = false
+    twitter = "//twitter.com/xupisco"
+    github = "//github.com/xupisco"
+    selfintro = "// insert clever quote here"
+    defaultContentLanguage = "br"
+    enableRobotsTXT = true
+
+    [params.social]
+        github = "xupisco"
+        facebook = "isotopedia"
+        facebook_admin = "830831574"
+        twitter = "isotopedia"
+        twitter_domain = "isotopedia.com"
+
+    [params.authors]
+        [params.authors.leandro]
+            name = "Leandro Voltolino"
+            thumbnail = "http://pub.xupisco.net/avatar_small.png"
+            images = [
+                "http://isotopedia.com/img/zen.png",
+            ]
+            bio = "I like turtles..."
+            email = "xupisco@gmail.com"
+
+            [params.authors.leandro.social]
+                github = "xupisco"
+                facebook = "xupisco"
+                twitter = "xupisco"

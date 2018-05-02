@@ -6,7 +6,7 @@ description = "Dicas para aproveitar melhor o VS Code no seu Blog com Hugo."
 tags = ['tips']
 draft = false
 images = [
-    "https://code.visualstudio.com/images/whyvscode_macwinlinux2.png",
+    "https://4.bp.blogspot.com/-0eh0BkFFjzI/WKtz8vnHZvI/AAAAAAAAS3M/V3F5ueEKxS8RdSP8HHz4AVvQ_2DKW8lIgCLcB/s1600/opengraph-blog.png",
 ]
 +++
 
@@ -14,7 +14,7 @@ O [Hugo](https://gohugo.io/) é um excelente gerador de sites estáticos escrito
 
 Não quero entrar muito em detalhes sobre como instalar e configurar o Hugo, isso pode ser encontrado no ["Getting started"](https://gohugo.io/overview/introduction/) do site deles, o objetivo aqui é apenas falar sobre como deixar o VS Code mais esperto para ele.
 
-![VS Code](https://code.visualstudio.com/images/whyvscode_macwinlinux2.png)
+![VS Code](https://4.bp.blogspot.com/-0eh0BkFFjzI/WKtz8vnHZvI/AAAAAAAAS3M/V3F5ueEKxS8RdSP8HHz4AVvQ_2DKW8lIgCLcB/s1600/opengraph-blog.png)
 *VS Code é multi-plataforma, baixe agora*
 
 ### Como é o processo?

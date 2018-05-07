@@ -13,6 +13,8 @@ images = [
 Olás pessoas que não conheço, como estão?  
 Vou começar uma série de tutoriais sobre como criar um clone de FlappyBird usando o [CoronaSDK](http://coronalabs.com), que é em Lua. 
 
+**Update:** Já estão disponíveis os [2 primeiros posts](/flappybird-tutorial/)... comece agora!
+
 ![FlappyBird](../../static/img/flappy_bird-animated.gif)
 
 Ainda estou preparando todo o material necessário, mas vamos começar do zero (mesmo) até ter o jogo completo rodando no seu celular. Por enquanto, já coloquei o source-code da versão final do projeto no github, fique a vontade se quiser baixar e começar a brincar antes.

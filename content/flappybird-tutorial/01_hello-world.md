@@ -73,6 +73,6 @@ No Simulador, clique em "Open Project" e selecione o arquivo ```main.lua```, na 
 
 Pronto, esse é o nosso jogo... rá!
 
-Brincadeira, no [próximo post]({{< relref "flappybird-tutorial/02_understanding-the-skeleton.md" >}}) vou explicar pra que as pastas e os arquivos desse esqueleto servem. Vamos baixar os assets (arquivos) do jogo e fazer o background aparecer na tela.
+Brincadeira, no [próximo post]({{< ref "/flappybird-tutorial/02_understanding-the-skeleton.md" >}}) vou explicar pra que as pastas e os arquivos desse esqueleto servem. Vamos baixar os assets (arquivos) do jogo e fazer o background aparecer na tela.
 
 Até!

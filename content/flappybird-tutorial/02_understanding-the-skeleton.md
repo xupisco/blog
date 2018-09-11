@@ -10,7 +10,7 @@ images = [
 ]
 +++
 
-Hello again... agora que você já [instalou o CoronaSDK e baixou o esqueleto do projeto]({{< relref "flappybird-tutorial/01_hello-world.md" >}}), podemos começar a colocar a mão na massa e dar vida ao nosso game (clone). Por enquanto temos apenas uma tela preta, parece ruim, mas já está funcionando e com todas as configurações necessárias para continuarmos o desenvolvimento.
+Hello again... agora que você já [instalou o CoronaSDK e baixou o esqueleto do projeto]({{< ref "/flappybird-tutorial/01_hello-world.md" >}}), podemos começar a colocar a mão na massa e dar vida ao nosso game (clone). Por enquanto temos apenas uma tela preta, parece ruim, mas já está funcionando e com todas as configurações necessárias para continuarmos o desenvolvimento.
 
 Antes de baixar os assets e colocar nosso background, vou explicar como o CoronaSDK funciona e quais configurações estão nos arquivos iniciais.
 

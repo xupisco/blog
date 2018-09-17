@@ -2,6 +2,7 @@ baseURL: 'http://isotopedia.com'
 author: Leandro Voltolino
 title: '@isotopedia - Let''s build stuff'
 theme: cocoa
+publishDir: ../blog_public
 disqusshortname: isotopedia
 googleAnalytics: UA-81093101-1
 pygmentsuseclasses: false

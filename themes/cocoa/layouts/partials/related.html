@@ -1,0 +1,14 @@
+{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ with $related }}
+<hr />
+<h3>Outros</h3>
+<ul>
+	{{ range . }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a>                 <span class="tags">
+        {{ range .Params.tags }}
+            <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">#{{ . }}</a>
+        {{ end }}
+        </span></li>
+	{{ end }}
+</ul>
+{{ end }}

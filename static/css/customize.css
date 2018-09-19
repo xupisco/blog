@@ -2,7 +2,6 @@ a:hover {
     color: red;
 }
 
-
 ul {
     list-style-type: disc;
 }
@@ -125,6 +124,25 @@ section.main .content .markdown hr {
      border-top: 1px dashed #ccc;
 }
 
+.related {
+    display: none;
+}
+
+.related hr {
+    border: 0;
+    border-bottom: 1px dashed #cacaca;
+    margin-bottom: 30px;
+}
+
+.related h3 {
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.related ul{
+    padding-left: 30px;
+}
+
 @media (max-width: 1024px) {
     section.icons {
         padding-bottom: 20px;
@@ -146,4 +164,3 @@ section.main .content .markdown hr {
         margin-left: -90px;
     }
 }
-

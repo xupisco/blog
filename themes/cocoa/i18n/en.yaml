@@ -1,6 +1,6 @@
 ---
 - id: latestPosts
-  translation: "Últimos posts"
+  translation: "Posts"
 
 - id: blogHeading
   translation: "Blog"

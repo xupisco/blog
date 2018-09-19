@@ -23,10 +23,18 @@ Confesso que gosto muito do editor que além de rápido é 100% customizável (t
 ## Extensions
 Abaixo um quick-list de todas que tenho instaladas, em ordem alfabética, uma pequena descrição e link para o Marktplace... 
 
-- Auto Close Tag
-- Auto Rename Tag
-- Awesome Flutter Snippets
-- Botter TOML
+**[Auto Close Tag][1]**  
+Fecha automaticamente as tags abertas, qq uma...basta fechar com p 'qqtag>' que ele coloca o </ qqtag> depois.
+
+**[Auto Rename Tag][2]**  
+Renomeia automaticamente o final da tag editada.
+
+**[Awesome Flutter Snippets][3]**  
+Coleção de snippets e atalhos para as funções e classes mais utilizadas no Flutter. (ainda não conhece o [Flutter](https://flutter.io)?)
+
+**[Better TOML][4]**  
+Suporte e color-highlight para arquivos TOML.
+
 - Bracket Pair Colorizer
 - C/C++
 - C#
@@ -71,6 +79,14 @@ Abaixo um quick-list de todas que tenho instaladas, em ordem alfabética, uma pe
 ## Theme / Settings
 
 Here we go!
+
+
+[//]: Links
+
+[1]: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+[2]: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+[3]: https://marketplace.visualstudio.com/items?itemName=Nash.awesome-flutter-snippets
+[4]: https://marketplace.visualstudio.com/items?itemName=bungcip.better-toml
 
 
 ---

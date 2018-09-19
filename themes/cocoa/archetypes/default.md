@@ -6,6 +6,6 @@ description = ""
 tags = []
 draft = false
 images = [
-    "http://isotopedia.com/img/zen.png",
+    "http://xupisco.net/img/zen.png",
 ]
 +++

@@ -6,7 +6,7 @@ description = "Tutorial FlappyBird - Entendendo a estrutura do projeto"
 tags = ['tutorial', 'corona']
 draft = false
 images = [
-    "http://isotopedia.com/img/og/flappy-bird-cover.jpg",
+    "http://xupisco.net/img/og/flappy-bird-cover.jpg",
 ]
 +++
 

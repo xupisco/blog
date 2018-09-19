@@ -6,7 +6,7 @@ description = "Criando um clone de FlappyBird no CoronaSDK"
 tags = ['tutorial', 'corona']
 draft = false
 images = [
-    "http://isotopedia.com/img/og/flappy-bird-cover.jpg",
+    "http://xupisco.net/img/og/flappy-bird-cover.jpg",
 ]
 +++
 

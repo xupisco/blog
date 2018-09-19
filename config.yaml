@@ -1,10 +1,10 @@
-baseURL: 'http://isotopedia.com'
+baseURL: 'http://xupisco.net'
 author: Leandro Voltolino
-title: '@isotopedia - Let''s build stuff'
+title: '@xupisco - Let''s build stuff'
 theme: cocoa
 publishDir: ../blog_public
-disqusshortname: isotopedia
-googleAnalytics: UA-81093101-1
+disqusshortname: xupisco
+googleAnalytics: UA-8395201-1
 pygmentsuseclasses: false
 permalinks:
   fixed: ':title/'
@@ -24,7 +24,7 @@ menu:
 params:
   latestpostscount: 7
   i18n_flags: false
-  author: isotopedia
+  author: xupisco
   avatar: img/zen.png
   cachebuster: true
   dateform: 02/01/2006
@@ -45,16 +45,16 @@ params:
   enableRobotsTXT: true
   social:
     github: xupisco
-    facebook: isotopedia
+    facebook: xupisco
     facebook_admin: '830831574'
-    twitter: isotopedia
-    twitter_domain: isotopedia.com
+    twitter: xupisco
+    twitter_domain: xupisco.net
   authors:
     leandro:
       name: Leandro Voltolino
       thumbnail: 'http://pub.xupisco.net/avatar_small.png'
       images:
-        - 'http://isotopedia.com/img/zen.png'
+        - 'https://xupisco.net/img/zen.png'
       bio: I like turtles...
       email: xupisco@gmail.com
       social:

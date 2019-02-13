@@ -2,7 +2,7 @@
 author = "leandro"
 title = "Minhas extensões e configurações do VSCode"
 slug = "minhas-extensoes-e-configuracoes-do-vscode"
-date = 2018-09-19T13:29:30-03:00
+date = 2019-02-12T19:29:30-03:00
 description = "Uma geral sobre as extensões, tema e configurações que uso atualmente no VSCode."
 tags = ['vscode', 'tips']
 draft = false
@@ -13,7 +13,7 @@ images = [
 
 Bom, acho que todo mundo já conhece o VSCode, certo? Mas em resumo, é um editor de texto "[open-source](https://github.com/Microsoft/vscode)" criado pelo Microsoft e hoje em dia é o queridinho dos developers.
 
-> Fun fact: O VSCode é atualmente o [17º pojeto](https://github.com/search?p=2&q=stars%3A%3E1&s=stars&type=Repositories) com mais "stars" no GitHub.
+> Fun fact: O VSCode é atualmente o [11º projeto](https://github.com/search?p=2&q=stars%3A%3E1&s=stars&type=Repositories) com mais "stars" no GitHub.
 
 Confesso que gosto muito do editor que além de rápido é 100% customizável (temas e extensions), o que quero contar aqui é quais são as minhas extensões atuais, tema e configurações (settings), sem mais delongas:
 
@@ -26,141 +26,141 @@ Confesso que gosto muito do editor que além de rápido é 100% customizável (t
 ## Extensions
 Abaixo um quick-list de todas que tenho instaladas, em ordem alfabética, uma pequena descrição e link para o Marketplace...
 
-**[Auto Close Tag][1]**
+**[Auto Close Tag][1]**  
 Fecha automaticamente as tags abertas, qq uma...basta fechar com p 'qqtag>' que ele coloca o </ qqtag> depois.
 
-**[Auto Rename Tag][2]**
+**[Auto Rename Tag][2]**  
 Renomeia automaticamente o final da tag editada.
 
-**[Awesome Flutter Snippets][3]**
+**[Awesome Flutter Snippets][3]**  
 Coleção de snippets e atalhos para as funções e classes mais utilizadas no Flutter. (ainda não conhece o [Flutter](https://flutter.io)?)
 
-**[Better TOML][4]**
+**[Better TOML][4]**  
 Suporte e color-highlight para arquivos TOML.
 
-**[Bracket Pair Colorizer][5]**
+**[Bracket Pair Colorizer][5]**  
 Esse cara é ninja, além de colocar cada parênteses, chaves, etc... em uma cor diferente (correspondente) ele mostra onde está o começo e o fim do caracter! Recomendo muito.
 
 ![](https://github.com/CoenraadS/BracketPair/raw/master/images/example.png)
 
-**[C/C++][6]**
+**[C/C++][6]**  
 Suporte para C/C++, color highlight, snippets, etc... (para quando estou brincando com C++)
 
-**[C#][7]**
+**[C#][7]**  
 Suporte para C#, color highlight, snippets, etc... (para as aventuras em Unity)
 
-**[Dart][8]**
+**[Dart][8]**  
 Suporte para C#, color highlight, snippets, etc... (quando preciso do Flutter)
 
-**[Debugger for Chrome][9]**
+**[Debugger for Chrome][9]**  
 Com ele é possível "debugar" apps em JS direto pelo VSCode, funciona que é uma beleza.
 
-**[Debugger for Unity][10]**
+**[Debugger for Unity][10]**  
 Como o nome diz, ele faz o "attach" do Unity com o VSCode para poder fazer o debug do C#.
 
-**[Djaneiro][11]**
+**[Djaneiro][11]**  
 Coleção de funcionalidades para Django / Python.
 
-**[Flutter][12]**
+**[Flutter][12]**  
 Suporte ao Framework Flutter, syntax-highlight e alguns snipplets.
 
-**[Git History][13]**
+**[Git History][13]**  
 Mostra o histórico do GIT para arquivos individuais ou repo, muito bom.
 
-**[Git Indicators][14]**
+**[Git Indicators][14]**  
 Mostra no "gutter" o estado das alterações atuais do arquivo comparado com seu último commit.
 
-**[GitLens][15]**
+**[GitLens][15]**  
 Uma verdadeira lente de aumento para visualização do seu repositório.
 
-**[Godot Tools][16]**
+**[Godot Tools][16]**  
 Suporte ao GDScript, syntax-highlight e alguns snipplets.
 
-**[HashLink Debugger][17]**
+**[HashLink Debugger][17]**  
 Debug para o Hashlink compiler (Haxe).
 
-**[Haxe][18]**
+**[Haxe][18]**  
 Suporte a linguagem Haxe, syntax-highlight e alguns snipplets.
 
-**[highlight-matching-tag][19]**
+**[highlight-matching-tag][19]**  
 Este cara coloca um "underline" no fechamento da tag correspondente.
 
-**[HTML Boilerplate][20]**
+**[HTML Boilerplate][20]**  
 Tem uns "skeletons" para novos arquivos em HTML.
 
-**[Image Preview][21]**
+**[Image Preview][21]**  
 Mostra um thumb no gutter da imagem que está no src.
 
-**[IntelliSense for CSS][22]**
+**[IntelliSense for CSS][22]**  
 Melhora o intellisense de CSS de maneira geral para o projeto / workspace.
 
-**[Love2D][23]**
+**[Love2D][23]**  
 Suporte ao Framework Love2D, syntax-highlight e alguns snipplets.
 
-**[Lua][24]**
+**[Lua][24]**  
 Suporte a linguagem LUA, syntax-highlight e alguns snipplets.
 
-**[Lua Plus][25]**
+**[Lua Plus][25]**  
 Essa extension "melhora" um pouco a anterior... trazendo mais syntax-highlight além de um auto-complete para tabelas, etc.
 
-**[Markdown PDF][27]**
+**[Markdown PDF][27]**  
 Salva documentos em markdown em PDF.
 
-**[Markdown Preview Enhanced][28]**
+**[Markdown Preview Enhanced][28]**  
 Cria uma janela side-by-side com o render do markdown em tempo real, este post foi escrito usando ele.
 
-**[Markdown Preview Mermaid][29]**
+**[Markdown Preview Mermaid][29]**  
 Suporte ao Mermaid JS no markdown, para criação de gráficos e charts.
 
-**[Markdown Shortcuts][30]**
+**[Markdown Shortcuts][30]**  
 Suporte a shortcuts simples no markdown como negrito, link, etc...
 
-**[Material Icon Theme][31]**
+**[Material Icon Theme][31]**  
 Muda os ícones dos arquivos e pastas.
 
-**[Material Theme][32]**
+**[Material Theme][32]**  
 Tema.
 
-**[One Dark Pro][33]**
+**[One Dark Pro][33]**  
 Tema.
 
-**[p5js Snippets][34]**
+**[p5js Snippets][34]**  
 Suporte ao Framework P5js, syntax-highlight e alguns snipplets.
 
-**[Path Intellisense][35]**
+**[Path Intellisense][35]**  
 Faz o auto-complete de pastas (folders) no código.
 
-**[Python][36]**
+**[Python][36]**  
 Rá.
 
-**[Quick Task][37]**
+**[Quick Task][37]**  
 Permite executar suas tasks de maneira rápida pela barra de status.
 
-**[Settings Sync][38]**
+**[Settings Sync][38]**  
 Faz o publish das suas settings e extencions em um Gist, muito útil se vc tem mais de um computador.
 
-**[Shader Language Support][39]**
+**[Shader Language Support][39]**  
 Suporte a linguagem OpenGL, syntax-highlight e alguns snipplets.
 
-**[Shader Toy][40]**
+**[Shader Toy][40]**  
 Faz um previu do seu shader dentro do VSCode.
 
-**[TODO Highlight][41]**
+**[TODO Highlight][41]**  
 Ele coloca uma corzinha nos "todos" que encontrar no seu código.
 
-**[Todo Tree][42]**
+**[Todo Tree][42]**  
 Coloca um ícone na action-bar que faz um overview de todos seus "todos" no workspace.
 
-**[Unity Snippets][43]**
+**[Unity Snippets][43]**  
 Suporte ao Unity (C#), syntax-highlight e alguns snipplets.
 
-**[Unity Tools][44]**
+**[Unity Tools][44]**  
 Mesmo do anterior... só que diferente! :)
 
-**[Vetur][45]**
+**[Vetur][45]**  
 Suporte ao Framework VUE.js, syntax-highlight e alguns snipplets.
 
-**[vscode-icons][46]**
+**[vscode-icons][46]**  
 Muda os ícones dos arquivos e pastas
 
 ## Theme / Settings
@@ -441,5 +441,5 @@ Bom, aqui o negócio é tenso... hahaah! Na íntegra o meu settings.json, muito 
 [46]: https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons
 
 ---
-E ae? Como está o seu VSCode?
+E ae? Como está o seu VSCode?  
 Hugs...

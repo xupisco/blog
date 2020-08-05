@@ -6,7 +6,7 @@ description = "Um organizador de links em uma thread do Reddit"
 tags = ['chrome', 'extension']
 draft = false
 images = [
-    "https://xupisco.net/img/reddit-lazy-link-finder.jpg",
+    "https://xupisco.github.io/img/reddit-lazy-link-finder.jpg",
 ]
 +++
 

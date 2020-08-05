@@ -7,7 +7,7 @@ description = "O que fazer para deixar o seu Godot ainda mais lindão?!"
 tags = ['tips', 'godot', 'gamedev']
 draft = false
 images = [
-    "https://xupisco.net/img/zen.png",
+    "https://xupisco.github.io/img/zen.png",
 ]
 +++
 

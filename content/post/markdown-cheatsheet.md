@@ -10,7 +10,7 @@ draft = false
 ## Userfull commands
 
 **Images**  
-![Kids and me](/img/profile.jpg)
+![Kids and me](../../static/img/profile.jpg)
 
 **Links**  
 [Text to display](https://google.com)

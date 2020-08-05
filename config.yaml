@@ -1,4 +1,4 @@
-baseURL: 'https://xupisco.net'
+baseURL: 'https://xupisco.github.io'
 author: Leandro Voltolino
 title: '@xupisco - Let''s build stuff'
 theme: cocoa
@@ -46,8 +46,10 @@ params:
   highlightjs: true
   highlightjsStyle: atom-one-dark
   faviconfile: /img/zen.png
+  
   extracssfiles:
     - /css/customize.css
+    
   lang: pt-br
   noshowreadtime: false
   twitter: //twitter.com/xupisco
@@ -55,18 +57,20 @@ params:
   selfintro: // insert clever quote here
   defaultContentLanguage: br
   enableRobotsTXT: true
+  
   social:
     github: xupisco
     facebook: xupisco
     facebook_admin: '830831574'
     twitter: xupisco
     twitter_domain: xupisco.net
+    
   authors:
     leandro:
       name: Leandro Voltolino
       thumbnail: 'http://pub.xupisco.net/avatar_small.png'
       images:
-        - 'https://xupisco.net/img/zen.png'
+        - 'https://xupisco.github.io/img/zen.png'
       bio: I like turtles...
       email: xupisco@gmail.com
       social:

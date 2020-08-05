@@ -6,7 +6,7 @@ description = ""
 tags = ['corona', 'lua', 'tutorial']
 draft = false
 images = [
-    "https://xupisco.net/img/og/flappy-bird-cover.jpg",
+    "https://xupisco.github.io/img/og/flappy-bird-cover.jpg",
 ]
 +++
 

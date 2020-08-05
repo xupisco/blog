@@ -7,7 +7,7 @@ description = "Uma geral sobre as extensões, tema e configurações que uso atu
 tags = ['vscode', 'tips']
 draft = false
 images = [
-    "https://xupisco.net/img/zen.png",
+    "https://xupisco.github.io/img/zen.png",
 ]
 +++
 

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Mono&display=swap');
+
 a:hover {
     color: red;
 }
@@ -103,7 +105,10 @@ section.main .content .markdown code {
 }
 
 section.main .content .markdown code, section.main .content .markdown pre {
-    background-color: #282828 !important;;
+    background-color: #282828 !important;
+    font-family: "Fira Mono";
+    font-size: 12px !important;
+    line-height: 18px;
 }
 
 section.main .content .markdown code {

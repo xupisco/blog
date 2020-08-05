@@ -44,7 +44,7 @@ params:
   description: 'Calma, estou aqui para ajudar!'
   email: dev@xupisco.net
   highlightjs: true
-  highlightjsStyle: gruvbox-dark
+  highlightjsStyle: atom-one-dark
   faviconfile: /img/zen.png
   
   extracssfiles:

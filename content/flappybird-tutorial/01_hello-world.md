@@ -64,7 +64,7 @@ Project_Template:
 │      ├── sfx
 │      └── sprites
 ├── classes
-├── LaunchScreen.storyboardc
+├── LaunchScreen.storyboard
 ├── scenes
 └── _icons
 ```

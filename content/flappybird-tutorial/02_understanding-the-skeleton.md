@@ -103,7 +103,7 @@ Sacou? Conforme a gente for criando o game (e as cenas) tudo fica mais claro... 
 
 Antes de tudo, um ponto **muito importante** aqui. NÃO use imagens em seus jogos sem que tenha o direito, de preferência por escrito, de quem as criou. Pirataria é crime e uso ilegal de imagens também, existe um tal de "[Direito Autoral](https://pt.wikipedia.org/wiki/Direito_autoral)" que deve ser respeitado.
 
-As imagens e sons do **FlappyBird** são de propriedade do **Dong Nguyen**, como este tutorial é puramente educacional e sem fins lucrativos, vamos utilizá-las. Pronto, agora... [baixe aqui os assets do Flappy Bird] (https://github.com/xupisco/CoronaSDK-FlappyBird/raw/master/FlappyBird%20Assets.zip) e coloque no diretório "assets" do seu projeto, ficando:
+As imagens e sons do **FlappyBird** são de propriedade do **Dong Nguyen**, como este tutorial é puramente educacional e sem fins lucrativos, vamos utilizá-las. Pronto, agora... [baixe aqui os assets do Flappy Bird](https://github.com/xupisco/CoronaSDK-FlappyBird/raw/master/FlappyBird%20Assets.zip) e coloque no diretório "assets" do seu projeto, ficando:
 
 | **Pasta**         | **Tipo de arquivo**    |
 | :---------------- |:---------------------- |

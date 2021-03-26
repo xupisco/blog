@@ -1,8 +1,9 @@
-baseURL: 'https://xupisco.github.io'
+baseURL: '/'
 author: Leandro Voltolino
 title: '@xupisco - Let''s build stuff'
 theme: cocoa
-publishDir: ../blog_public
+publishDir: public
+
 disqusshortname: xupisco
 googleAnalytics: UA-8395201-1
 pygmentsuseclasses: false
@@ -68,9 +69,9 @@ params:
   authors:
     leandro:
       name: Leandro Voltolino
-      thumbnail: 'http://pub.xupisco.net/avatar_small.png'
+      thumbnail: 'https://xupisco.net/avatar_small.png'
       images:
-        - 'https://xupisco.github.io/img/zen.png'
+        - 'https://xupisco.net/img/zen.png'
       bio: I like turtles...
       email: xupisco@gmail.com
       social:

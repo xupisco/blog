@@ -7,6 +7,6 @@ description = ""
 tags = []
 draft = false
 images = [
-    "https://xupisco.github.io/img/zen.png",
+    "https://nerdicas.com/img/zen.png",
 ]
 +++

@@ -1,10 +1,10 @@
 baseURL: '/'
 author: Leandro Voltolino
-title: '@xupisco - Let''s build stuff'
+title: '@nerdicas - Let''s build stuff'
 theme: cocoa
 publishDir: public
 
-disqusshortname: xupisco
+disqusshortname: nerdicas
 googleAnalytics: UA-8395201-1
 pygmentsuseclasses: false
 permalinks:
@@ -37,13 +37,13 @@ related:
 params:
   latestpostscount: 0
   i18n_flags: false
-  author: xupisco
+  author: nerdicas
   avatar: /img/zen.png
   cachebuster: true
   dateform: 02/01/2006
   dateformfull: 'Mon Jan 2 2006 15:04:05 MST'
   description: 'Calma, estou aqui para ajudar!'
-  email: dev@xupisco.net
+  email: dev@nerdicas.com
   highlightjs: true
   highlightjsStyle: atom-one-dark
   faviconfile: /img/zen.png
@@ -53,28 +53,28 @@ params:
     
   lang: pt-br
   noshowreadtime: false
-  twitter: //twitter.com/xupisco
-  github: //github.com/xupisco
+  twitter: //twitter.com/nerdicas
+  github: //github.com/nerdicas
   selfintro: // insert clever quote here
   defaultContentLanguage: br
   enableRobotsTXT: true
   
   social:
-    github: xupisco
-    facebook: xupisco
+    github: nerdicas
+    facebook: nerdicas
     facebook_admin: '830831574'
-    twitter: xupisco
-    twitter_domain: xupisco.net
+    twitter: nerdicas
+    twitter_domain: nerdicas.com
     
   authors:
     leandro:
       name: Leandro Voltolino
-      thumbnail: 'https://xupisco.net/avatar_small.png'
+      thumbnail: 'https://nerdicas.com/avatar_small.png'
       images:
-        - 'https://xupisco.net/img/zen.png'
+        - 'https://nerdicas.com/img/zen.png'
       bio: I like turtles...
-      email: xupisco@gmail.com
+      email: blog@nerdicas.com
       social:
         github: xupisco
-        facebook: xupisco
-        twitter: xupisco
+        facebook: nerdicas
+        twitter: nerdicas

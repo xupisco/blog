@@ -54,13 +54,13 @@ params:
   lang: pt-br
   noshowreadtime: false
   twitter: //twitter.com/nerdicas
-  github: //github.com/nerdicas
+  github: //github.com/xupisco
   selfintro: // insert clever quote here
   defaultContentLanguage: br
   enableRobotsTXT: true
   
   social:
-    github: nerdicas
+    github: xupisco
     facebook: nerdicas
     facebook_admin: '830831574'
     twitter: nerdicas
